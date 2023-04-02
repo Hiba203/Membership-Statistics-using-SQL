@@ -1,7 +1,7 @@
 # Membership-data analyst -using-SQL
 The dataset is for country club called Pinebrook. The club has seen a significant increase in membership cancellations over the past few years. The study is used to analyze the membership dataset to try and understand what's driving these cancellations by using PostgreSQL.
 
-####So, it is found that:
+#### So, it is found that:
 
 1- There are 7,275 members in the dataset
 
