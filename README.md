@@ -28,3 +28,5 @@ The dataset is for country club called Pinebrook. The club has seen a significan
 12- Platinum members cancel at the least, with Gold Members cancellng the most. However, the difference between the cancellation numbers is not high, and all membership types have approximately the same level of average income.
 
 13- The average income, fees, and member counts are fairly evenly distributed across all industries
+
+#### The data is then visualized by using PowerBI
